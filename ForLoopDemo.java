@@ -46,6 +46,20 @@ public class ForLoopDemo
 		}
 	}
 
-	}
-//done
+/* output :
+ * AAAAA
+AAAAA
+AAAAA
+AAAAA
+AAAAA
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+GHIJK
+MNOPQ
+STUVW
+YZ[\] */
 
